@@ -109,7 +109,7 @@ export default function Contact() {
         <p>
           💬 WhatsApp:
           <a
-            href="https://wa.me/254748044720"
+            href="https://wa.me/254748043720"
             target="_blank"
             className="text-white ml-1"
           >

@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 const plans = [
   {
     name: "Starter",
-    price: "$150 – $300",
+    price: "$70 – $150",
     description: "Simple landing page for individuals or small businesses.",
     features: [
       "1-page website",
@@ -17,7 +17,7 @@ const plans = [
   },
   {
     name: "Growth (Most Popular)",
-    price: "$400 – $800",
+    price: "$200 – $300",
     description: "For businesses ready to generate consistent leads online.",
     features: [
       "Multi-section website",
@@ -30,7 +30,7 @@ const plans = [
   },
   {
     name: "Premium",
-    price: "$900+",
+    price: "$500+",
     description: "Full custom web solution for serious brands & startups.",
     features: [
       "Custom web application",
